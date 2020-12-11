@@ -17,9 +17,7 @@ Currently, we have no plans on making the project open-source, but in case you h
 
 ## Authors and acknowledgment
 List of contributors:
-Alisher Mussin
-Amangeldy Sarsembay
-Bakdauren Narbayev
+Alisher Mussin, Amangeldy Sarsembay, Bakdauren Narbayev
 
 All of them are 3rd year Computer Science students at [Nazarbayev University](https://nu.edu.kz).
 ## Project status
